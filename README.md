@@ -15,7 +15,7 @@
   - **🔬 Frameworks:**
       - **🌐 Web:** •[ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [ReactJS](https://reactjs.org/docs/getting-started.html)
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ C# 11`
+  - **📜 Languages:** • `🧙🏻‍♂️ C#`  • `🧙🏻‍♂️ Python`
   - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [Django](https://www.django-rest-framework.org/)
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html)
   - **🏗️ Code editors:**
