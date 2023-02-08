@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 ### Who I am
-* Full Stack Engineer based in Nairobi, Kenya
+* Full Stack Engineer based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
 * Hands-on experience on Web app development
 
 ### What am doing?
 * Writing C# SQL HTML CSS JavaScript Python.
-* Mostly active on LinkedIn.
+* 🌍 Mostly active on <a href="https://www.linkedin.com/in/ouko-ezra-ab84a413b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/ouko-ezra-ab84a413b)--> and the **.NET community**.
 * Looking to collaborate on Projects.
 
 
