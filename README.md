@@ -6,7 +6,7 @@
 
 #### What am doing?
 * 👨‍💻 Writing `C#` `SQL` `Python` `HTML` `CSS` `JavaScript`.
-* 🌍 Mostly active on <a href="https://www.linkedin.com/in/ouko-ezra-ab84a413b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/ouko-ezra-ab84a413b)--> and the **.NET community**.
+* 🌍 Mostly active on <a href="https://www.linkedin.com/in/ouko-ezra-ab84a413b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/ouko-ezra-ab84a413b)-->.
 * 👯 Looking to collaborate on **.NET, Django, React Projects**.
 
 #### What my skill set looks like?
@@ -14,7 +14,9 @@
   - **📜 Languages:** • `🧙🏻 C#` • `👨‍🔧 JavaScript` • `🧚🏻‍♂️ HTML` • `👨🏻‍🎨 CSS`
   - **🔬 Frameworks:**
       - **🌐 Web:** •[ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [ReactJS](https://reactjs.org/docs/getting-started.html)
-
+- 🗄️ **Back-end:**
+  - **📜 Languages:** • `🧙🏻‍♂️ C# 11`
+  - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [Django](https://www.django-rest-framework.org/)
 
 <!--
 **iamOuko/iamOuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
