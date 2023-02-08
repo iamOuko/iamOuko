@@ -21,6 +21,12 @@
   - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
 
+
+<!--Github Stats-->
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamOuko" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamOuko"/>
+</p>
 <!--
 **iamOuko/iamOuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
