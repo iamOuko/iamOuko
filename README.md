@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+### Who I am
+* Full Stack Engineer based in Nairobi, Kenya
+* Hands-on experience on Web app development
+
+### What am doing?
+* Writing C# SQL HTML CSS JavaScript Python.
+* Mostly active on LinkedIn.
+* Looking to collaborate on Projects.
+
+
 <!--
 **iamOuko/iamOuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
