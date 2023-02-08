@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Who I am
-* Full Stack Engineer based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
+* Full Stack Software Engineer based in **[Nairobi](https://en.wikipedia.org/wiki/Nairobi), [Kenya](https://en.wikipedia.org/wiki/Kenya).** 
 * Hands-on experience on Web app development
 
 #### What am doing?
