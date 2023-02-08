@@ -15,8 +15,8 @@
   - **🔬 Frameworks:**
       - **🌐 Web:** •[ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc) • [ReactJS](https://reactjs.org/docs/getting-started.html)
 - 🗄️ **Back-end:**
-  - **📜 Languages:** • `🧙🏻‍♂️ C#`  • `🧙🏻‍♂️ Python`
-  - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [Django](https://www.django-rest-framework.org/)
+  - **📜 Languages:** • `🧙🏻‍♂️ C#`  • `🧙🏻‍♂️ Python` • `👨‍🔧 JavaScript`
+  - **🔭 Frameworks:** • [ASP.NET Web API](https://dotnet.microsoft.com/en-us/apps/aspnet/apis) • [Django](https://www.django-rest-framework.org/) • [NodeJS](https://nodejs.org/en/)
   - **💾 Databases:** • [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2019) • [MongoDB](https://www.mongodb.com/) • [SQLite](https://www.sqlite.org/index.html)
   - **🏗️ Code editors:**
 <a href="https://visualstudio.microsoft.com/"><img src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=25></a> <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
