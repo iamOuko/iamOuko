@@ -5,7 +5,7 @@
 * Hands-on experience on Web app development
 
 #### What am doing?
-* 👨‍💻 Writing `C#` `SQL` `Python` `HTML` `CSS` `JavaScript`.
+* 👨‍💻 Writing `C#` `SQL` `Python` `HTML` `CSS` `JavaScript` `Elixir`.
 * 🌍 Mostly active on <a href="https://www.linkedin.com/in/ouko-ezra-ab84a413b"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a> <!--[LinkedIn](https://www.linkedin.com/in/ouko-ezra-ab84a413b)-->.
 * 👯 Looking to collaborate on **.NET, Django, React Projects**.
 
